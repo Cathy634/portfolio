@@ -1,0 +1,55 @@
+
+/* Estilos generales */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    text-align: center;
+    color: #333;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+}
+
+/* Estilo del botón */
+#btn-generar {
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin: 20px 0;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#btn-generar:hover {
+    background-color: #45a049;
+}
+
+/* Footer con la frase */
+#footer {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #f1f1f1;
+    border-top: 2px solid #ccc;
+}
+
+#frase {
+    font-size: 1.2rem;
+    color: #444;
+    font-style: italic;
+    margin: 10px 0;
+}
+
+
+
